@@ -1,4 +1,4 @@
-# vuestore-client
+# vuestore
 
 ## Project setup
 ```
