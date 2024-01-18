@@ -9,7 +9,7 @@
           :item="item"
           v-on:remove-item="removeFromCart($event)"
         />
-        <h3 id="total-price">Total: Rp{{ totalPrice }}</h3>
+        <h3 id="total-price">Totals: Rp{{ totalPrice }}</h3>
         <button id="checkout-button">Checkout</button>
       </div>
   </div>
